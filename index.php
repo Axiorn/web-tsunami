@@ -160,7 +160,7 @@ if(!$connect) {
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.php">Tsunami<span>Center</span></a>
+			                <a class="navbar-brand" href="index.php">Tsunami<span> Center</span></a>
 
 			            </div>
 			            <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
