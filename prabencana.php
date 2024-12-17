@@ -111,17 +111,17 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a class="navbar-brand" href="index.php">Tsunami<span>Center</span></a>
+                        <a class="navbar-brand" href="index">Tsunami<span>Center</span></a>
                     </div>
 
                     <!-- Navbar Menu -->
                     <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                            <li class="scroll"><a href="index.php#home">About</a></li>
-                            <li class="scroll active"><a href="index.php#works">Mitigation</a></li>
-                            <li class="scroll"><a href="index.php#explore">Berita</a></li>
-                            <li class="scroll"><a href="index.php#reviews">History</a></li>
-                            <li class="scroll"><a href="index.php#blog">Aduan</a></li> 
+                            <li class="scroll"><a href="index#home">About</a></li>
+                            <li class="scroll active"><a href="index#works">Mitigation</a></li>
+                            <li class="scroll"><a href="index#explore">Berita</a></li>
+                            <li class="scroll"><a href="index#reviews">History</a></li>
+                            <li class="scroll"><a href="index#blog">Aduan</a></li> 
                         </ul>
                     </div>
             </nav>
