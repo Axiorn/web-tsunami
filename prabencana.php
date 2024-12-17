@@ -111,7 +111,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a class="navbar-brand" href="index">Tsunamiii<span>Center</span></a>
+                        <a class="navbar-brand" href="index">Tsunami<span>Center</span></a>
                     </div>
 
                     <!-- Navbar Menu -->
